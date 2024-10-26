@@ -1,4 +1,4 @@
-![Gamer Survival YouTube Banner in Dark Blue and Orange Dark Style](https://github.com/user-attachments/assets/8643c231-8663-4795-b178-a15d4c03a1af)<h1 align="center">Hi 👋, I'm Muhammad Ariel Saputra</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ariel Saputra</h1>
 <h3 align="center">I'm a passionate Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
